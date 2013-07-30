@@ -33,6 +33,11 @@ github "ruby",       "6.2.0"
 github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
+github "virtualbox", "1.0.5"
+github "cyberduck",  "1.0.1"
+github "iterm2",     "1.0.3"
+github "sublime_text_2", "1.1.2"
+
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
